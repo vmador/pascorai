@@ -1,10 +1,10 @@
 const CACHE_NAME = 'pascorai-pwa-cache-v2';
 const urlsToCache = [
-    '/pascorai/',
-    '/pascorai/index.html',
-    '/pascorai/manifest.json',
-    '/pascorai/icon-192x192.png',
-    '/pascorai/icon-512x512.png'
+    '/',
+    '/index.html',
+    '/manifest.json',
+    '/icon-192x192.png',
+    '/icon-512x512.png'
 ];
 
 self.addEventListener('install', (event) => {
