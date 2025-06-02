@@ -1,12 +1,12 @@
 {
-    "name": "pascorai PWA",
+    "name": "pascorai",
     "short_name": "pascorai",
-    "description": "pascorai Progressive Web App",
+    "description": "pascorai",
     "start_url": "/pascorai/",
     "scope": "/pascorai/",
     "display": "standalone",
-    "background_color": "#171717",
-    "theme_color": "#171717",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
     "icons": [
         {
             "src": "/pascorai/icon-192x192.png",
